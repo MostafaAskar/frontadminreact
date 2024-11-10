@@ -1,11 +1,11 @@
 export const PROJECT_NAME = 'Uzmart marketplace';
-export const BASE_URL = 'https://apiuz.alberto-eg.com';
+export const BASE_URL = 'https://api.almuttahidah.me';
 export const WEBSITE_URL = 'https://uzmart.org';
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin = BASE_URL + '/api/v1/dashboard/admin/';
 export const api_url_admin_dashboard = BASE_URL + '/api/v1/dashboard/';
 export const IMG_URL = '';
-export const MAP_API_KEY = 'AIzaSyBbfnvObzwcs6OLXOmSaG9CtIhwjmBwLTQ';
+export const MAP_API_KEY = 'AIzaSyCtmiOTv56XrYK6esFwzQ0E6MpA53FWlbk';
 export const export_url = BASE_URL + '/storage/';
 export const example = BASE_URL + '/';
 export const defaultCenter = { lat: 40.7127281, lng: -74.0060152 };
